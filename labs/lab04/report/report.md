@@ -236,6 +236,8 @@ pandoc README.md -o README.docx
 
 ![Командная строка. Компиляция отчета.](image/04.png){ #fig:004 width=70%, height=70% }
 
+[***Ссылка на Github***](https://github.com/ArtyomGismatullin/study_2022-2023_arh-pc.git)
+
 # Выводы
 
 Успешно в ходе выполнения работы освоили процедуры оформления отчетов с помощью языка разметки Markdown.
